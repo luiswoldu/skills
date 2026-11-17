@@ -1,16 +1,16 @@
 ---
-name: design-visual
+name: design-foundation
 description: Develop two boards in Figma from seed colors, a typeface, and references. Use for visual exploration before creating a reusable Figma library.
 ---
 
-# Design visual
+# Design foundation
 
 Create two Figma boards that set the foundational design system choices and language for a project. Accept rough inputs: raw hex codes, a font, or a references and screenshots. Inspect supplied references before designing. 
 
 Use the bundled screenshots as **layout references**, not as project specifications:
 
-- [Type specimen reference](assets/type-specimen-reference.png): large live type samples, arranged by hierarchy, with each style's size and intended use directly beneath it. The two-column layout separates display and supporting text.
-- [Semantic color reference](assets/semantic-color-reference.png): grouped use cases, swatches and exact hex values, light/dark rows where relevant, and a side-by-side mapping from human-readable roles to reusable semantic names.
+- [Type specimen reference](attachments/type-specimen-reference.png): large live type samples, arranged by hierarchy, with each style's size and intended use directly beneath it. The two-column layout separates display and supporting text.
+- [Semantic color reference](attachments/semantic-color-reference.png): grouped use cases, swatches and exact hex values, light/dark rows where relevant, and a side-by-side mapping from human-readable roles to reusable semantic names.
 
 The screenshots' product names, exact type sizes, colors, token names, and status marks are examples. Derive those details from the current project's brief and visual exploration.
 
